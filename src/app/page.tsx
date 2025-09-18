@@ -9,6 +9,7 @@ import {
   HeroSection,
   HowItWorks,
   Features,
+  BookDemo,
   
 } from "../components";
 
@@ -50,6 +51,7 @@ const AskShotLanding = () => {
       <HowItWorks />
       <Features/>
       <Footer />
+      <BookDemo/>
     </div>
   );
 };
