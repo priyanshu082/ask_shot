@@ -2,6 +2,7 @@ import HeroSection from "./HeroSection";
 import Header from "./Header";
 import Footer from "./Footer";
 import HowItWorks from "./HowItWorks";
+import Features from "./Features";
 
 
 export {
@@ -9,4 +10,5 @@ export {
   Footer,
   HeroSection,
   HowItWorks,
+  Features
 };

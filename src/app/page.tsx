@@ -8,6 +8,7 @@ import {
   Footer,
   HeroSection,
   HowItWorks,
+  Features,
   
 } from "../components";
 
@@ -47,7 +48,7 @@ const AskShotLanding = () => {
       <Header isDark={isDark} onThemeChange={handleThemeChange} />
       <HeroSection />
       <HowItWorks />
-      
+      <Features/>
       <Footer />
     </div>
   );
