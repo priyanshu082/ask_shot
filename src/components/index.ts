@@ -6,6 +6,7 @@ import Features from "./Features";
 import BookDemo from "./BookDemo";
 import Demo from "./Demo";
 import Pricing from "./Pricing";
+import Testimonials from "./Testimonials";
 
 export {
   Header,
@@ -15,5 +16,6 @@ export {
   Features,
   BookDemo,
   Demo,
-  Pricing
+  Pricing,
+  Testimonials
 };
