@@ -10,8 +10,10 @@ import {
   HowItWorks,
   Features,
   BookDemo,
+  Pricing,
   
 } from "../components";
+import Demo from "@/components/Demo";
 
 const AskShotLanding = () => {
   const { theme, setTheme } = useTheme();
@@ -52,6 +54,8 @@ const AskShotLanding = () => {
       <Features/>
       <Footer />
       <BookDemo/>
+      <Demo/>
+      <Pricing/>
     </div>
   );
 };
