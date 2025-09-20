@@ -56,6 +56,7 @@ const AskShotLanding = () => {
       <BookDemo/>
       <Demo/>
       <Pricing/>
+      <Footer/>
     </div>
   );
 };
