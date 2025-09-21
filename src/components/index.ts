@@ -4,10 +4,11 @@ import Footer from "./Footer";
 import HowItWorks from "./HowItWorks";
 import Features from "./Features";
 import BookDemo from "./BookDemo";
-import Demo from "./Demo";
 import Pricing from "./Pricing";
 import Testimonials from "./Testimonials";
 import FAQ from "./FAQ";
+import Demo from "./Demo";
+import FloatingGradient from "./FloatingGradient";
 
 export {
   Header,
@@ -16,9 +17,10 @@ export {
   HowItWorks,
   Features,
   BookDemo,
-  Demo,
   Pricing,
   Testimonials,
-  FAQ
+  FAQ,
+  Demo,
+  FloatingGradient
 
 };

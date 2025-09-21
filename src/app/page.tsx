@@ -12,9 +12,10 @@ import {
   BookDemo,
   Pricing,
   FAQ,
-  
+  Demo,
+  FloatingGradient
 } from "../components";
-import Demo from "@/components/Demo";
+
 
 const AskShotLanding = () => {
   const { theme, setTheme } = useTheme();
@@ -48,7 +49,7 @@ const AskShotLanding = () => {
           : "bg-gradient-to-br from-gray-50 via-white to-gray-100 text-black"
       }`}
     >
-      
+      <FloatingGradient/>
       <Header isDark={isDark} onThemeChange={handleThemeChange} />
       <HeroSection />
       <HowItWorks />
