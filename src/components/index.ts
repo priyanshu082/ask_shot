@@ -7,6 +7,7 @@ import BookDemo from "./BookDemo";
 import Demo from "./Demo";
 import Pricing from "./Pricing";
 import Testimonials from "./Testimonials";
+import FAQ from "./FAQ";
 
 export {
   Header,
@@ -17,5 +18,7 @@ export {
   BookDemo,
   Demo,
   Pricing,
-  Testimonials
+  Testimonials,
+  FAQ
+
 };

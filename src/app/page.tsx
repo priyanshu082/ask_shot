@@ -11,6 +11,7 @@ import {
   Features,
   BookDemo,
   Pricing,
+  FAQ,
   
 } from "../components";
 import Demo from "@/components/Demo";
@@ -57,6 +58,7 @@ const AskShotLanding = () => {
       <Demo/>
       <Pricing/>
       <Footer/>
+      <FAQ/>
     </div>
   );
 };
