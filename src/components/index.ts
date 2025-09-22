@@ -9,6 +9,7 @@ import Testimonials from "./Testimonials";
 import FAQ from "./FAQ";
 import Demo from "./Demo";
 import FloatingGradient from "./FloatingGradient";
+import CTASection from "./CTASection";
 
 export {
   Header,
@@ -21,6 +22,6 @@ export {
   Testimonials,
   FAQ,
   Demo,
-  FloatingGradient
-
+  FloatingGradient,
+  CTASection
 };

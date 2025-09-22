@@ -13,7 +13,8 @@ import {
   Pricing,
   FAQ,
   Demo,
-  FloatingGradient
+  FloatingGradient,
+  CTASection
 } from "../components";
 
 
@@ -60,6 +61,7 @@ const AskShotLanding = () => {
       <Pricing/>
       <Footer/>
       <FAQ/>
+      <CTASection/>
     </div>
   );
 };
