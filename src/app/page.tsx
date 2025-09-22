@@ -59,9 +59,9 @@ const AskShotLanding = () => {
       <BookDemo/>
       <Demo/>
       <Pricing/>
-      <Footer/>
       <FAQ/>
       <CTASection/>
+      <Footer/>
     </div>
   );
 };
